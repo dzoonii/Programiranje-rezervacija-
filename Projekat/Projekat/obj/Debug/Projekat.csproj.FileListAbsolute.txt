@@ -1,0 +1,15 @@
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\bin\Debug\QRCoder.dll
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.Form2.resources
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Ja\Desktop\Nikola proj\Projekat\Projekat\obj\Debug\Projekat.Form3.resources

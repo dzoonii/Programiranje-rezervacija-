@@ -1,0 +1,20 @@
+Osoba: dsa je iznajmila stan na adresi Lokacija 2
+Datum ulaska: 12/28/2022
+Datum izlaska: 12/30/2022
+Dani ostanka : 0 dana
+----------------------------------
+Osoba: sadsa je iznajmila stan na adresi Lokacija 2
+Datum ulaska: 12/28/2022
+Datum izlaska: 12/30/2022
+Dani ostanka : 0 dana
+----------------------------------
+Osoba: Nikola Rognjic je iznajmila stan na adresi Lokacija 2
+Datum ulaska: 12/28/2022
+Datum izlaska: 12/29/2022
+Dani ostanka : 0 dana
+----------------------------------
+Osoba: dada je iznajmila stan na adresi Lokacija 3
+Datum ulaska: 12/5/2022
+Datum izlaska: 12/31/2022
+Dani ostanka : 26 dana
+----------------------------------
